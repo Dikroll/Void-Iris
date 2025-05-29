@@ -8,6 +8,8 @@ This theme is designed for developers who love the aesthetics of cyberpunk, oute
 
 > _"The look out of the void – bold, enigmatic, and razor-sharp."_
 
+by VenserPRO & Dikroll
+
 ---
 
 ## 🎨 Features
@@ -17,6 +19,8 @@ This theme is designed for developers who love the aesthetics of cyberpunk, oute
 - Excellent readability without straining the eyes
 - Cyberpunk & alien atmosphere throughout the palette
 - Great pairing with transparent terminal backgrounds or custom wallpapers
+- Recommended with vscode background extensions
+  2iuZsouKzXM8Vsuh8ylmdaDIuxYLjRo8pBPa1qdrAzx9ht0s3aj5JQQJ99BEACAAAAAAAAAAAAASAZDOgLJ6
 
 ---
 
@@ -24,6 +28,7 @@ This theme is designed for developers who love the aesthetics of cyberpunk, oute
 
 ![Editor Screenshot 1](https://github.com/user-attachments/assets/a72b0809-05aa-4550-9e24-25ad4e43c6dd)
 ![Editor Screenshot 2](https://github.com/user-attachments/assets/5f67f197-c89b-49fd-beb6-a06a36a786fd)
+![Editor Screenshot 3](https://github.com/user-attachments/assets/8a27b88a-9779-4603-8a84-492011157f0b)
 
 ---
 
@@ -41,5 +46,11 @@ This theme is designed for developers who love the aesthetics of cyberpunk, oute
 ## 🧪 Status
 
 This theme is actively maintained. More refinements and language-specific tweaks are on the way!
+
+---
+
+## Source code
+
+Also you can find this theme in our void 🌌 repository [🌐 **GitHub**](https://marketplace.visualstudio.com/items?itemName=VenserPRO.void-iris)
 
 ---
