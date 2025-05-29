@@ -1,0 +1,21 @@
+{
+  "name": "void-iris-theme",
+  "displayName": "Void Iris Theme",
+  "description": "🪐 Void Iris - VS Code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Void Iris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Void Iris-color-theme.json"
+      }
+    ]
+  }
+}
