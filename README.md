@@ -20,7 +20,6 @@ by VenserPRO & Dikroll
 - Cyberpunk & alien atmosphere throughout the palette
 - Great pairing with transparent terminal backgrounds or custom wallpapers
 - Recommended with vscode background extensions
-  2iuZsouKzXM8Vsuh8ylmdaDIuxYLjRo8pBPa1qdrAzx9ht0s3aj5JQQJ99BEACAAAAAAAAAAAAASAZDOgLJ6
 
 ---
 
@@ -51,6 +50,7 @@ This theme is actively maintained. More refinements and language-specific tweaks
 
 ## Source code
 
-Also you can find this theme in our void 🌌 repository [🌐 **GitHub**](https://marketplace.visualstudio.com/items?itemName=VenserPRO.void-iris)
+This really void 🌌 theme on [**Market**](https://marketplace.visualstudio.com/items?itemName=Dikroll.void-iris-theme)
+Also you can find this theme in our void 🌌 repository [**GitHub**](https://github.com/Dikroll/Void-Iris.git)
 
 ---
