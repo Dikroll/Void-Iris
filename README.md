@@ -25,9 +25,8 @@ by VenserPRO & Dikroll
 
 ## 🖼 Screenshots
 
-![Editor Screenshot 1](https://github.com/user-attachments/assets/a72b0809-05aa-4550-9e24-25ad4e43c6dd)
-![Editor Screenshot 2](https://github.com/user-attachments/assets/5f67f197-c89b-49fd-beb6-a06a36a786fd)
-![Editor Screenshot 3](https://github.com/user-attachments/assets/8a27b88a-9779-4603-8a84-492011157f0b)
+![Editor Screenshot 1](https://github.com/user-attachments/assets/102bcc13-9b6c-4d32-a0bf-92224a5cd350)
+![Editor Screenshot 2](https://github.com/user-attachments/assets/81d965ce-27d8-4505-b045-f45b70886a46)
 
 ---
 
