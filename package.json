@@ -4,7 +4,7 @@
 	"displayName": "Void Iris Theme",
 	"description": "🪐 Void Iris - VS Code theme",
 	"icon": "screenshots/icon.png",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Dikroll/Void-Iris.git"

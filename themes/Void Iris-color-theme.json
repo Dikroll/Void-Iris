@@ -1623,7 +1623,7 @@
 			"name": "comments",
 			"scope": ["beginning.punctuation.definition.list.markdown.xi"],
 			"settings": {
-				"foreground": "#f4f4f932"
+				"foreground": "#a9a9a9"
 			}
 		},
 		{
@@ -1695,7 +1695,7 @@
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f4f4f932"
+				"foreground": "#959595"
 			}
 		},
 		{
