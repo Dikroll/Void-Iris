@@ -1,8 +1,9 @@
 # 🪐 Void Iris & Endless Iris - Two Galaxy Sisters
 
 <img src="https://github.com/user-attachments/assets/05274799-0c66-431f-86eb-e616a2688ecc" alt="Void Iris Cover" width="250"/>
-
 In the vast cosmos of code, two sisters dance across the universe of your editor: **Void Iris** and **Endless Iris**. Born from the same stellar nebula, they are two sides of the same cosmic coin—one embracing the infinite darkness, the other bathing in eternal light.
+
+<img width="1593" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a628beaf-8460-4cc9-b3a3-dbb2d9a8f017" />
 
 ## 🌌 The Tale of Two Sisters
 
@@ -45,8 +46,8 @@ by VenserPRO & Dikroll
 
 ## 🖼 Screenshots
 
-![Editor Screenshot 1](https://github.com/user-attachments/assets/102bcc13-9b6c-4d32-a0bf-92224a5cd350)
-![Editor Screenshot 2](https://github.com/user-attachments/assets/fe8bb4d2-b21a-4c07-9c93-93f39a2e46d0)
+![Editor Screenshot 1](https://github.com/user-attachments/assets/68a1dbcc-d45a-4e95-8fa8-6da1df73d92d)
+![Editor Screenshot 2](https://github.com/user-attachments/assets/520e2bf6-b8af-442c-aee7-8d77fb20864f)
 
 ---
 
@@ -66,7 +67,7 @@ by VenserPRO & Dikroll
 
 ## 🧪 Status
 
-This theme is actively maintained. More refinements and language-specific tweaks are on the way!
+This theme is actively maintained. More refinements and specific tweaks are on the way!
 
 ---
 
