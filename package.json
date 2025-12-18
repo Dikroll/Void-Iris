@@ -4,7 +4,7 @@
 	"displayName": "Void Iris Theme",
 	"description": "🪐 Void Iris - VS Code theme",
 	"icon": "screenshots/icon.png",
-	"version": "1.0.3",
+	"version": "1.1.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Dikroll/Void-Iris.git"
@@ -18,9 +18,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Void Iris",
+				"label": "Void-Iris",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Void Iris-color-theme.json"
+				"path": "./themes/Void-Iris-color-theme.json"
+			},
+			{
+				"label": "Endless-Iris",
+				"uiTheme": "vs",
+				"path": "./themes/Endless-Iris-color-theme.json"
 			}
 		]
 	}

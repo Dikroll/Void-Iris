@@ -1,12 +1,18 @@
-# 🪐 Void Iris - A Neon-Drenched Dark Theme for VSCode
+# 🪐 Void Iris & Endless Iris - Two Galaxy Sisters
 
 <img src="https://github.com/user-attachments/assets/05274799-0c66-431f-86eb-e616a2688ecc" alt="Void Iris Cover" width="250"/>
 
-Welcome to **Void Iris** – a dark Visual Studio Code theme infused with the mystery of neon rain, ultraviolet accents, and a deep black canvas. Step into the void and experience a modern, elegant, and focused coding environment.
+In the vast cosmos of code, two sisters dance across the universe of your editor: **Void Iris** and **Endless Iris**. Born from the same stellar nebula, they are two sides of the same cosmic coin—one embracing the infinite darkness, the other bathing in eternal light.
 
-This theme is designed for developers who love the aesthetics of cyberpunk, outer space, and the surreal glow of a stormy purple night. Whether you're staring into the abyss or just your terminal, **Void Iris** is here to set the mood.
+## 🌌 The Tale of Two Sisters
 
-> _"The look out of the void – bold, enigmatic, and razor-sharp."_
+**Void Iris** is the elder sister—mysterious, enigmatic, and bold. She dwells in the deepest voids of space, where neon rain falls in ultraviolet hues and the darkness itself becomes a canvas for your thoughts. Her palette whispers of cyberpunk nights, stormy purple skies, and the surreal glow of distant galaxies. When you need to dive deep into the abyss of code, she is your guide through the void.
+
+**Endless Iris** is the younger sister—radiant, luminous, and boundless. She lives in the endless expanse of light, where the same cosmic energy that birthed her sibling now flows through pristine whites and soft pastels. Her palette echoes the same violet mysteries but bathed in daylight, offering clarity and brightness for those who seek the light. When you need to see clearly through the cosmos of your code, she illuminates your path.
+
+Together, they are the **Galaxy Sisters**—two themes, one soul, endless possibilities. Choose the darkness of the void or the light of the endless sky. Both await your journey.
+
+> _"Two sisters, one cosmos—boundless in the void, endless in the light."_
 
 by VenserPRO & Dikroll
 
@@ -14,12 +20,26 @@ by VenserPRO & Dikroll
 
 ## 🎨 Features
 
+### Void Iris (Dark Theme)
+
 - Mysterious violet hues and ultraviolet-inspired highlights
 - Deep blacks for maximum contrast and focus
-- Excellent readability without straining the eyes
 - Cyberpunk & alien atmosphere throughout the palette
+- Perfect for night coding sessions
+
+### Endless Iris (Light Theme)
+
+- Same cosmic violet energy, bathed in light
+- Pristine whites and soft pastels for clarity
+- Bright, airy atmosphere without losing the galactic charm
+- Perfect for daytime coding adventures
+
+### Shared Features
+
+- Excellent readability without straining the eyes
 - Great pairing with transparent terminal backgrounds or custom wallpapers
 - Recommended with vscode background extensions
+- Consistent color language across both themes
 
 ---
 
@@ -36,8 +56,11 @@ by VenserPRO & Dikroll
 2. Search for `Void Iris`
 3. Click **Install**
 4. Reload the editor if prompted
-5. Go to `File → Preferences → Color Theme → Void Iris`
-6. Enjoy your journey into the void 🌌
+5. Go to `File → Preferences → Color Theme`
+6. Choose your sister:
+   - **Void Iris** for the dark cosmic journey 🌌
+   - **Endless Iris** for the light celestial path ✨
+7. Switch between them anytime—the sisters are always with you
 
 ---
 
@@ -49,7 +72,8 @@ This theme is actively maintained. More refinements and language-specific tweaks
 
 ## Source code
 
-This really void 🌌 theme on [**Market**](https://marketplace.visualstudio.com/items?itemName=Dikroll.void-iris-theme)
-Also you can find this theme in our void 🌌 repository [**GitHub**](https://github.com/Dikroll/Void-Iris.git)
+Meet the Galaxy Sisters on [**Market**](https://marketplace.visualstudio.com/items?itemName=Dikroll.void-iris-theme) 🌌✨
+
+Also you can find both themes in our cosmic repository [**GitHub**](https://github.com/Dikroll/Void-Iris.git)
 
 ---
