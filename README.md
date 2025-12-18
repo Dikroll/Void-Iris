@@ -1,9 +1,10 @@
-# 🪐 Void Iris & Endless Iris - Two Galaxy Sisters
+# 🪐 Void Iris & Endless Iris — Two Galaxy Sisters
 
-<img src="https://github.com/user-attachments/assets/05274799-0c66-431f-86eb-e616a2688ecc" alt="Void Iris Cover" width="250"/>
-In the vast cosmos of code, two sisters dance across the universe of your editor: **Void Iris** and **Endless Iris**. Born from the same stellar nebula, they are two sides of the same cosmic coin—one embracing the infinite darkness, the other bathing in eternal light.
+![Void Iris Cover](https://github.com/user-attachments/assets/05274799-0c66-431f-86eb-e616a2688ecc)
 
-<img width="1593" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a628beaf-8460-4cc9-b3a3-dbb2d9a8f017" />
+`In the vast cosmos of code, two sisters dance across the universe of your editor: Void Iris and **Endless Iris. Born from the same stellar nebula, they are two sides of the same cosmic coin—one embracing the infinite darkness, the other bathing in eternal light.`
+
+![Void Iris Editor](https://github.com/user-attachments/assets/a628beaf-8460-4cc9-b3a3-dbb2d9a8f017)
 
 ## 🌌 The Tale of Two Sisters
 
@@ -13,9 +14,9 @@ In the vast cosmos of code, two sisters dance across the universe of your editor
 
 Together, they are the **Galaxy Sisters**—two themes, one soul, endless possibilities. Choose the darkness of the void or the light of the endless sky. Both await your journey.
 
-> _"Two sisters, one cosmos—boundless in the void, endless in the light."_
+> _“Two sisters, one cosmos—boundless in the void, endless in the light.”_
 
-by VenserPRO & Dikroll
+by **VenserPRO** & **Dikroll**
 
 ---
 
@@ -39,7 +40,7 @@ by VenserPRO & Dikroll
 
 - Excellent readability without straining the eyes
 - Great pairing with transparent terminal backgrounds or custom wallpapers
-- Recommended with vscode background extensions
+- Recommended with VS Code background extensions
 - Consistent color language across both themes
 
 ---
@@ -53,14 +54,16 @@ by VenserPRO & Dikroll
 
 ## 🚀 Installation
 
-1. Open **Extensions** sidebar in VSCode: `View → Extensions`
+1. Open **Extensions** sidebar in VS Code: `View → Extensions`
 2. Search for `Void Iris`
 3. Click **Install**
 4. Reload the editor if prompted
 5. Go to `File → Preferences → Color Theme`
 6. Choose your sister:
+
    - **Void Iris** for the dark cosmic journey 🌌
    - **Endless Iris** for the light celestial path ✨
+
 7. Switch between them anytime—the sisters are always with you
 
 ---
@@ -71,10 +74,10 @@ This theme is actively maintained. More refinements and specific tweaks are on t
 
 ---
 
-## Source code
+## 🔗 Source Code
 
-Meet the Galaxy Sisters on [**Market**](https://marketplace.visualstudio.com/items?itemName=Dikroll.void-iris-theme) 🌌✨
+Meet the Galaxy Sisters on the **VS Code Marketplace** 🌌✨
+[https://marketplace.visualstudio.com/items?itemName=Dikroll.void-iris-theme](https://marketplace.visualstudio.com/items?itemName=Dikroll.void-iris-theme)
 
-Also you can find both themes in our cosmic repository [**GitHub**](https://github.com/Dikroll/Void-Iris.git)
-
----
+Explore the cosmic repository on **GitHub**
+[https://github.com/Dikroll/Void-Iris.git](https://github.com/Dikroll/Void-Iris.git)
