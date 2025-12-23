@@ -4,7 +4,14 @@ All notable changes to the "void-iris-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.1.1] - 2025
+
+### Changed
+
+- Updated contrast of JS, TS files
+- Fixed buttons foreground selection
+
+## [released]
 
 ## [1.1.0] - 2025
 

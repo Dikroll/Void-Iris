@@ -1,7 +1,5 @@
 # 🪐 Void Iris & Endless Iris — Two Galaxy Sisters
 
-![Void Iris Cover](https://github.com/user-attachments/assets/05274799-0c66-431f-86eb-e616a2688ecc)
-
 `In the vast cosmos of code, two sisters dance across the universe of your editor: Void Iris and **Endless Iris. Born from the same stellar nebula, they are two sides of the same cosmic coin—one embracing the infinite darkness, the other bathing in eternal light.`
 
 ![Void Iris Editor](https://github.com/user-attachments/assets/a628beaf-8460-4cc9-b3a3-dbb2d9a8f017)
